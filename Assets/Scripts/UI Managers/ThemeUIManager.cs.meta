@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a821de2953c984443941b7a97a9c166f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapThemer: {instanceID: 0}
+  - enemySpawner: {instanceID: 0}
+  - menuPanel: {instanceID: 0}
+  - colTemasi: {fileID: 11400000, guid: c329cab830f961041a1a5325cf300914, type: 2}
+  - ormanTemasi: {fileID: 11400000, guid: 56abe0fa2e16a144cad686fbcdc325a7, type: 2}
+  - sehirTemasi: {fileID: 11400000, guid: d0a81b16297e2e542adad5ac038c8e21, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

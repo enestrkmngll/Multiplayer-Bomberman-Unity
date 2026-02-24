@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|c:\\users\\monster\\desktop\\unity\\bomberman_deneme01\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|c:\\users\\monster\\desktop\\unity\\bomberman_deneme01\\assets\\scripts\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\singleton\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\singleton\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\strategy\\rangebooststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\strategy\\rangebooststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\state\\enemystates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\state\\enemystates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\state\\ienemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\state\\ienemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\observer\\explosionarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\observer\\explosionarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\observer\\iexplosionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\observer\\iexplosionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\facade\\gamestarterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\facade\\gamestarterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\factory\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\factory\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\factory\\themefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\factory\\themefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\strategy\\powerupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\strategy\\powerupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\observer\\mapdestructionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\observer\\mapdestructionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\ownernetworkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ownernetworkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\bombpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bombpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\factory\\forestthemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\factory\\forestthemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\factory\\desertthemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\factory\\desertthemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\assets\\scripts\\patterns\\factory\\citythemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C488B4E5-29C7-5467-EBDE-66F8AAD60F2B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterns\\factory\\citythemefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\EnemyPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\PlayerPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:31:02.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RangeBoostStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Strategy\\RangeBoostStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Strategy\\RangeBoostStrategy.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Strategy\\RangeBoostStrategy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Strategy\\RangeBoostStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:29:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Singleton\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Singleton\\GameManager.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Singleton\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Singleton\\GameManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:15:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExplosionArea.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\ExplosionArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Observer\\ExplosionArea.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\ExplosionArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Observer\\ExplosionArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:14:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExplosionObserver.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\IExplosionObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Observer\\IExplosionObserver.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\IExplosionObserver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Observer\\IExplosionObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:14:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\ThemeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Factory\\ThemeFactory.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\ThemeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Factory\\ThemeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:03:32.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Factory\\MapGenerator.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\MapGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Factory\\MapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:03:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameStarterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Facade\\GameStarterFacade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Facade\\GameStarterFacade.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Facade\\GameStarterFacade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Facade\\GameStarterFacade.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:12:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnemyState.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\State\\IEnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\State\\IEnemyState.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\State\\IEnemyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\State\\IEnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:16:18.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\UserRepository.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UserRepository.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:05:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapDestructionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\MapDestructionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Observer\\MapDestructionSystem.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Observer\\MapDestructionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Observer\\MapDestructionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:14:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyStates.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\State\\EnemyStates.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\State\\EnemyStates.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\State\\EnemyStates.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\State\\EnemyStates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:16:17.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PowerUpItem.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Strategy\\PowerUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Strategy\\PowerUpItem.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Strategy\\PowerUpItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Strategy\\PowerUpItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:17:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\EnemyPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPresenter.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\EnemyPresenter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPresenter.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:17:24.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\User.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\User.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\User.cs",
+              "RelativeToolTip": "Assets\\Scripts\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:05:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\PlayerPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPresenter.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\PlayerPresenter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPresenter.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:17:13.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OwnerNetworkAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\OwnerNetworkAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OwnerNetworkAnimator.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\OwnerNetworkAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OwnerNetworkAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:05:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientNetworkTransform.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:04:42.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BombPass.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\BombPass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BombPass.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\BombPass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BombPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:04:21.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForestThemeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\ForestThemeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Factory\\ForestThemeFactory.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\ForestThemeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Factory\\ForestThemeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:03:15.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DesertThemeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\DesertThemeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Factory\\DesertThemeFactory.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\DesertThemeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Factory\\DesertThemeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:03:10.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CityThemeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\CityThemeFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Patterns\\Factory\\CityThemeFactory.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Unity\\Bomberman_deneme01\\Assets\\Scripts\\Patterns\\Factory\\CityThemeFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Patterns\\Factory\\CityThemeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:02:58.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

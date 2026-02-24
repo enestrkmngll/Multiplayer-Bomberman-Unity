@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d99022b62695924d98267e06e00fc53, type: 3}
+  m_Name: New City Theme
+  m_EditorClassIdentifier: 
+  concreteGround: {fileID: 11400000, guid: 8cf2e46807de1d4468ae79ccbd49176e, type: 2}
+  brickWall: {fileID: 11400000, guid: 45653677d394f1d4e8f72db77655b565, type: 2}
+  trashBin: {fileID: 11400000, guid: 049d233c862a6a948ae371455557776c, type: 2}
+  metalBlock: {fileID: 11400000, guid: 42d3dd23c16157d418ae88ded71d1ffb, type: 2}
+  cityEnemyPrefab: {fileID: 7206883560524583054, guid: c3414235b520efc41b4288824680afb4, type: 3}
